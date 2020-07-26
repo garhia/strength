@@ -563,7 +563,7 @@
     var removePreloader = function() {        
         $(window).on("load", function () {
             $(".loader").fadeOut();
-            $("#loading-overlay").delay(500).fadeOut('slow',function(){
+            $("#loading-overlay").fadeOut('slow',function(){
                 $(this).remove();
             }); 
         });

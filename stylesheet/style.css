@@ -1415,6 +1415,10 @@ input::-webkit-input-placeholder {
 #footer #footer-widget .widget-social-media li a {
     color: #c5c5c5;
 }
+.footer--logo{
+    width:100px;
+    height: auto;
+}
 #bottom {
     color: #b4b4b6;
     background-color: #04124a;
