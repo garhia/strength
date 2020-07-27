@@ -16,7 +16,7 @@ var RevSlider = function() {
                     sliderLayout:"auto",
                     fullWidth:"on",
                     dottedOverlay: "none",
-                    delay: 5000,
+                    delay: 6000,
                     navigation: {
                         keyboardNavigation: "on",
                         keyboard_direction: "horizontal",
